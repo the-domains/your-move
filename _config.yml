@@ -1,0 +1,28 @@
+name: Your Move
+favicon: null
+layout_spectrum: 0.5343822999857366
+typography_spectrum: 0.8887809896841645
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.8019295616541058
+  lightness: 0.8353729501832277
+  saturation: 0.9930516267195344
+  rhythmicContrast: 0.08924177312292159
+purpose: []
